@@ -18,10 +18,12 @@ form: true
 
 ### Kankan Zhao
 - Rhizosphere microbiomics
+
 ![](img/members/zhaokankan.png)
 
 ### Yiling Wang
 - Viromes
+
 ![](img/members/wangyiling.jpg)
 
 ## Master students
@@ -32,14 +34,17 @@ form: true
 
 ### Shan Liu
 - Phyllosphere microbiome
+
 ![](img/members/liushan.jpg)
 
 
 ### Haoze Liu
+
 ![](img/members/liu1.jpg)
 
 
 ###  Linya Xu
 
 - The Microbiome of Hangzhou Bay
+
 <img src="img/members/xulinya.jpg"  height="400" width="400">
