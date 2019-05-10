@@ -6,31 +6,32 @@ background: '/img/bg-members.jpg'
 form: true
 ---
 
-## Group Leader
+# Postdocteral Fellows
 
-- Bin Ma
+## Yuanhui Liu (from China Agriculture University)
 
-## Postdocteral Fellows
+## Ran Xue (from Lanzhou University)
 
-- Yuanhui Liu (from China Agriculture University)
+# Doctoral students
 
-- Ran Xue (from Lanzhou University)
+##Kankan Zhao
 
-## Doctoral students
+![](img/members/zhaokankan.png)
 
-![]('/img/members/zhaokankan.png')
-- Kankan Zhao
+## Yiling Wang
 
-![]('/img/members/wangyiling.png')
-- Yiling Wang
+![](img/members/wangyiling.jpg)
 
-## Master students
+# Master students
 
-- Sudi Ye
-- Shan Liu
+## Sudi Ye
 
-![]('/img/members/liu1.jpg')
-- Haoze Liu
+## Shan Liu
 
-![]('/img/members/xulinya.jpg')
-- Linya Xu
+
+## Haoze Liu
+![](img/members/liu1.jpg)
+
+
+## Linya Xu
+<img src="img/members/xulinya.jpg"  height="400" width="400">
