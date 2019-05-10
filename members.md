@@ -32,6 +32,8 @@ form: true
 ### Sudi Ye
 - Microfluidics
 
+![](img/members/sudi.jpg)
+
 
 ### Shan Liu
 - Phyllosphere microbiome
