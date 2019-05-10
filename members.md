@@ -2,7 +2,7 @@
 layout: page
 title: Members
 description: The folks in BMA Lab 
-background: '/img/member.jpg'
+background: '/img/bg-members.jpg'
 form: true
 ---
 
