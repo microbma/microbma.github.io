@@ -18,7 +18,10 @@ form: true
 
 ## Doctoral students
 
+![]('/img/members/zhaokankan.png')
 - Kankan Zhao
+
+![]('/img/members/wangyiling.png')
 - Yiling Wang
 
 ## Master students
