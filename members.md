@@ -8,46 +8,43 @@ form: true
 
 ## Postdoctoral Fellows
 
-### Ran Xue
+#### Ran Xue
 - Microbial "Dark matters"
 
-### Yuanhui Liu
-(co-superivsed with Prof. Jianming Xu)
+#### Yuanhui Liu
 - Root node and rhizosphere microbiomes
 
 ## Doctoral students
 
-### Kankan Zhao
+#### Kankan Zhao
 - Rhizosphere microbiomics
 
 ![](img/members/zhaokankan.png)
 
-### Yiling Wang
+#### Yiling Wang
 - Viromes
 
 ![](img/members/wangyiling.jpg)
 
 ## Master students
 
-### Sudi Ye
+#### Shudi Ye
 - Microfluidics
 
 ![](img/members/sudi.jpg)
 
 
-### Shan Liu
+#### Shan Liu
 - Phyllosphere microbiome
 
 ![](img/members/liushan.jpg)
 
-
-### Haoze Liu
+#### Haoze Liu
 
 ![](img/members/liu1.jpg)
 
 
-###  Linya Xu
-
+####  Linya Xu
 - The Microbiome of Hangzhou Bay
 
 <img src="img/members/xulinya.jpg"  height="400" width="400">
