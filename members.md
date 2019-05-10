@@ -6,7 +6,7 @@ background: '/img/bg-members.jpg'
 form: true
 ---
 
-## Postdocteral Fellows
+## Postdoctoral Fellows
 
 ### Ran Xue
 - Microbial "Dark matters"
