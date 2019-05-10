@@ -11,7 +11,10 @@ form: true
 ### Ran Xue
 - Microbial "Dark matters"
 
-### Yuanhui Liu (co-superivsed with Prof. Jianming Xu)
+### Yuanhui Liu
+
+(co-superivsed with Prof. Jianming Xu)
+
 - Root node and rhizosphere microbiomes
 
 ## Doctoral students
