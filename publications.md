@@ -30,11 +30,21 @@ form: true
 
 ## 2015 and before
 
-- Ma, B.; Zhou, Z.-Y.; Zhang, C.-P.; Zhang, G.; Hu, Y.-J. Inorganic Phosphorus Fractions in the Rhizosphere of Xerophytic Shrubs in the Alxa Desert. Journal of Arid Environments 2009, 73 (1), 55–61. https://doi.org/10.1016/j.jaridenv.2008.08.006.
-- Wu, Y.; Ma, B.; Zhou, L.; Wang, H.; Xu, J.; Kemmitt, S.; Brookes, P. C. Changes in the Soil Microbial Community Structure with Latitude in Eastern China, Based on Phospholipid Fatty Acid Analysis. Applied Soil Ecology 2009, 43 (2–3), 234–240. https://doi.org/10.1016/j.apsoil.2009.08.002.
-- Ma, B.; Chen, H.; He, Y.; Wang, H.; Xu, J. Evaluation of Toxicity Risk of Polycyclic Aromatic Hydrocarbons (PAHs) in Crops Rhizosphere of Contaminated Field with Sequential Extraction. Journal of Soils and Sediments 2010, 10 (5), 955–963. https://doi.org/10.1007/s11368-010-0212-8.
-- Ma, B.; Chen, H.; Xu, M.; Hayat, T.; He, Y.; Xu, J. Quantitative Structure–activity Relationship (QSAR) Models for Polycyclic Aromatic Hydrocarbons (PAHs) Dissipation in Rhizosphere Based on Molecular Structure and Effect Size. Environmental Pollution 2010, 158 (8), 2773–2777. https://doi.org/10.1016/j.envpol.2010.04.011.
-- Ma, B.; He, Y.; Chen, H.; Xu, J.; Rengel, Z. Dissipation of Polycyclic Aromatic Hydrocarbons (PAHs) in the Rhizosphere: Synthesis through Meta-Analysis. Environmental Pollution 2010, 158 (3), 855–861. https://doi.org/10.1016/j.envpol.2009.09.024.
+- Ma, B.; Zhou, Z.-Y.; Zhang, C.-P.; Zhang, G.; Hu, Y.-J. Inorganic Phosphorus Fractions in the Rhizosphere of Xerophytic Shrubs in the Alxa Desert. Journal of Arid Environments 2009, 73 (1), 55–61. 
+[https://doi.org/10.1016/j.jaridenv.2008.08.006](https://doi.org/10.1016/j.jaridenv.2008.08.006)
+
+- Wu, Y.; Ma, B.; Zhou, L.; Wang, H.; Xu, J.; Kemmitt, S.; Brookes, P. C. Changes in the Soil Microbial Community Structure with Latitude in Eastern China, Based on Phospholipid Fatty Acid Analysis. Applied Soil Ecology 2009, 43 (2–3), 234–240.
+[https://doi.org/10.1016/j.apsoil.2009.08.002](https://doi.org/10.1016/j.apsoil.2009.08.002)
+
+- Ma, B.; Chen, H.; He, Y.; Wang, H.; Xu, J. Evaluation of Toxicity Risk of Polycyclic Aromatic Hydrocarbons (PAHs) in Crops Rhizosphere of Contaminated Field with Sequential Extraction. Journal of Soils and Sediments 2010, 10 (5), 955–963.
+[https://doi.org/10.1007/s11368-010-0212-8](https://doi.org/10.1007/s11368-010-0212-8)
+
+- Ma, B.; Chen, H.; Xu, M.; Hayat, T.; He, Y.; Xu, J. Quantitative Structure–activity Relationship (QSAR) Models for Polycyclic Aromatic Hydrocarbons (PAHs) Dissipation in Rhizosphere Based on Molecular Structure and Effect Size. Environmental Pollution 2010, 158 (8), 2773–2777. 
+[https://doi.org/10.1016/j.envpol.2010.04.011](https://doi.org/10.1016/j.envpol.2010.04.011)
+
+- Ma, B.; He, Y.; Chen, H.; Xu, J.; Rengel, Z. Dissipation of Polycyclic Aromatic Hydrocarbons (PAHs) in the Rhizosphere: Synthesis through Meta-Analysis. Environmental Pollution 2010, 158 (3), 855–861. 
+[https://doi.org/10.1016/j.envpol.2009.09.024](https://doi.org/10.1016/j.envpol.2009.09.024)
+
 - Hayat, T.; Ding, N.; Ma, B.; He, Y.; Shi, J.; Xu, J. Dissipation of Pentachlorophenol in the Aerobic–Anaerobic Interfaces Established by the Rhizosphere of Rice ( L.) Root. Journal of Environment Quality 2011, 40 (6), 1722. https://doi.org/10.2134/jeq2010.0347.
 - Ma, B.; Xu, M.; Wang, J.; Chen, H.; He, Y.; Wu, L.; Wang, H.; Xu, J. Adsorption of Polycyclic Aromatic Hydrocarbons (PAHs) on Rhizopus Oryzae Cell Walls: Application of Cosolvent Models for Validating the Cell Wall-Water Partition Coefficient. Bioresource Technology 2011, 102 (22), 10542–10547. https://doi.org/10.1016/j.biortech.2011.08.013.
 - Ma, B.; Wang, J.; Xu, M.; He, Y.; Wang, H.; Wu, L.; Xu, J. Evaluation of Dissipation Gradients of Polycyclic Aromatic Hydrocarbons in Rice Rhizosphere Utilizing a Sequential Extraction Procedure. Environmental Pollution 2012, 162, 413–421. https://doi.org/10.1016/j.envpol.2011.10.034.
