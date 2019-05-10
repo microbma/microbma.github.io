@@ -1,14 +1,11 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title:             BMA Lab  
+email:             bma@zju.edu.cn 
+description:       Exploring Wired Microbiomes
+author:            Bin Ma
+url:               "http://microbma.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+github_username:   microbma
 
 # Build settings
 markdown:          kramdown
