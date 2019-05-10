@@ -25,5 +25,9 @@ form: true
 
 - Sudi Ye
 - Shan Liu
--  Liu
+
+![]('/img/members/liu1.jpg')
+- Haoze Liu
+
+![]('/img/members/xulinya.jpg')
 - Linya Xu
