@@ -19,12 +19,11 @@ form: true
 ## Doctoral students
 
 - Kankan Zhao
+- Yiling Wang
 
 ## Master students
 
 - Sudi Ye
 - Shan Liu
-
-## Undergraduate student
-
-- Yiling Wang
+-  Liu
+- Linya Xu
