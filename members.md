@@ -6,24 +6,52 @@ background: '/img/bg-members.jpg'
 form: true
 ---
 
+## Dr. Bin Ma
+
+![](img/members/binma.jpg)
+
+### Education
+
+- Ph.D in Soil Science, Zhejiang University, Hangzhou, 2008-2012
+- M. Ag in Grass Science, Lanzhou University, Lanzhou, 2004-2007
+- B. Ag. in Grass Science, Lanzhou University, Lanzhou, 2000-2004
+
+### Professional Experence
+
+- 2017-present, Assistant Professor (the 100 talent project), Zhejiang University
+- 2014-2017, Postdoctoral Fellow (LRIGS), University of Alberta
+- 2012-2014, Assistant Researcher, Chinese Academy of Science
+
+### Research Interests
+
+#### Systems Microbiology
+
+Microbes wired with others through complex interactions. Systems biology provides a novel perspedctive for microbial ecology investigation that interaction networks of genes, proteins, microbes, and other factors in ecosystems play critical roles in regulating ecosystem functions. We are trying to explore the complex interactions in microbial communities by inferring microbial networks for genes, proteins, and microbes.
+
+#### Rhizosphere Microbiomes
+
+Rhizosphere microbiomes are essential for plant grwoth and health, and for ecosystem sustainability. However, our understanding in rhizosphere microbiomes is still unclear because of microbial "dark matters" and complex cross-talking between plant and rhizosphere microbiomes. We are digging microbial "dark matters" with FACS-iChip and are illustrating plant-microbe cross-talking mechanisms in rhizosphere with RhizoChip.
+
+
 ## Postdoctoral Fellows
 
-#### Ran Xue
+#### Dr. Ran Xue
 
 ![](img/members/xueran.jpg)
 
 Ran Xue received his Ph.D in Agriculture from Lanzhou University in 2017 including 2 years’ joint study in the University of Adelaide funded by CSC. During his PhD, Ran studied the interaction between microbial community and plant under water stress. He joined Bin’s lab in Jun, 2018, where he involves in “dark matter” or uncultured microbes in soil to excavate microbial resources for agriculture, manufacture and health care. Ran’s research interests also including bacteria cell size, active microorganism and microbial community assembly.
 
-#### Yuanhui Liu
+#### Dr. Yuanhui Liu
 ![](img/members/liu2.jpg)
 
 (co-superivsed with Prof. Jianming Xu)
 
-Dr. Yuanhui Liu has graduated from the China Agricultural University with a Ph.D. degree in microbiology in June 2018. In my Ph.D. research period, I have studied the mechanism underlying the Non-specific symbiosis between Sophora flavescens and different rhizobia. The research conducted in BMA lab focuses on the mechanism of nitrogen fixation efficiency of rhizobia in regulating the structure and function of soybean root microbiome, in order to understand how rhizobia affect the root microbiome through plant growth and metabolism.
+Dr. Yuanhui Liu has graduated from the China Agricultural University with a Ph.D. degree in microbiology in June 2018. In my Ph.D. research period, she has studied the mechanism underlying the Non-specific symbiosis between Sophora flavescens and different rhizobia. The research conducted in BMA lab focuses on the mechanism of nitrogen fixation efficiency of rhizobia in regulating the structure and function of soybean root microbiome, in order to understand how rhizobia affect the root microbiome through plant growth and metabolism.
 
 ## Doctoral students
 
 #### Kankan Zhao
+(co-superivsed with Prof. Jianming Xu and Prof. Philip C. Brookes)
 
 ![](img/members/zhaokankan.png)
 
@@ -53,7 +81,9 @@ Shudi Ye holds a landscape architecture B.Eng. from Zhejiang A&F University and 
 
 ![](img/members/liushan.png)
 
-Shan Liu graduated from the Jiangxi Agricultural University with a Bachelor of Agriculture in agricultural resources and environmental in June 2018. After my graduated, I was lucky enough to enter BMA lab and became a member of the research group. My research project is Phyllosphere microbiome, and the main research content is its geographical distribution pattern and main driving factors. Although there are many difficulties in the process of research, I believe in where there is a way.
+
+
+Shan Liu graduated from the Jiangxi Agricultural University with a Bachelor of Agriculture in agricultural resources and environmental in June 2018. After my graduated, she was lucky enough to enter BMA lab and became a member of the research group. My research project is phyllosphere microbiome, and the main research content is its geographical distribution pattern and main driving factors.  Although there are many difficulties in the process of research, there is a way.
 
 #### Haoze Liu
 
