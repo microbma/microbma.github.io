@@ -8,7 +8,7 @@ form: true
 
 ## Dr. Bin Ma
 
-![](img/members/binma.jpg)
+<img src="img/members/binma.jpg" height="400" width="400")
 
 ### Education
 
