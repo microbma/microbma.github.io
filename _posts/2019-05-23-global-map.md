@@ -55,7 +55,7 @@ ggplot(wmap_df, aes(long,lat, group=group)) +
   theme_opts
 ```
 
-![](http://microbma.github.io/img/posts/map/map1.png)
+![](http://microbma.github.io/img/posts/map/map1.png){:height="300"}
 
 
 # reproject from longlat to robinson
@@ -70,7 +70,7 @@ ggplot(wmap_df_robin, aes(long,lat, group=group)) +
   theme_opts
 ```
 
-![](http://microbma.github.io/img/posts/map/map2.png)
+![](http://microbma.github.io/img/posts/map/map2.png){:height="300"}
 
 # show the hole
 
@@ -83,7 +83,7 @@ ggplot(wmap_df_robin, aes(long,lat, group=group, fill=hole)) +
   scale_fill_manual(values=c("#262626", "#97CBFF"), guide="none") 
 ```
 
-![](http://microbma.github.io/img/posts/map/map3.png)
+![](http://microbma.github.io/img/posts/map/map3.png){:height="300"}
 
 # add graticule
 
@@ -105,7 +105,7 @@ ggplot(bbox_df, aes(long,lat, group=group)) +
   scale_fill_manual(values=c("black", "white"), guide="none")
 ```
 
-![](http://microbma.github.io/img/posts/map/map4.png)
+![](http://microbma.github.io/img/posts/map/map4.png){:height="300"}
 
 
 # robinson projection with graticule
@@ -128,7 +128,7 @@ ggplot(bbox_robin_df, aes(long,lat, group=group)) +
         # change colors & remove legend
 ```
 
-![](http://microbma.github.io/img/posts/map/map5.png)
+![](http://microbma.github.io/img/posts/map/map5.png){:height="300"}
 
 
 # Add points on maps
@@ -157,4 +157,4 @@ ggplot(bbox_robin_df, aes(long,lat, group=group)) +
                    inherit.aes = FALSE)
 ```
 
-![](http://microbma.github.io/img/posts/map/map6.png)
+![](http://microbma.github.io/img/posts/map/map6.png){:height="300"}
