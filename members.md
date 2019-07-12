@@ -48,6 +48,11 @@ Ran Xue received his Ph.D in Agriculture from Lanzhou University in 2017 includi
 
 Dr. Yuanhui Liu has graduated from the China Agricultural University with a Ph.D. degree in microbiology in June 2018. In my Ph.D. research period, she has studied the mechanism underlying the Non-specific symbiosis between Sophora flavescens and different rhizobia. The research conducted in BMA lab focuses on the mechanism of nitrogen fixation efficiency of rhizobia in regulating the structure and function of soybean root microbiome, in order to understand how rhizobia affect the root microbiome through plant growth and metabolism.
 
+## Xiangfeng Tan
+![](img/members/tan.jpg)
+
+I received my PhD degree in Forest Biology and Management from the University of Alberta.  My thesis research mainly involved the roles of plant aquaporins under low oxygen conditions. I joined Dr. Ma's lab in July 2019 as a postdoc fellow, and have been studying the rhizosphere interactions between plants and microbes.  Benefiting from my backgrounds in ecology and plant science, I would like to keep expanding my research interests.
+
 ## Doctoral students
 
 #### Kankan Zhao
