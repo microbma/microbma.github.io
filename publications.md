@@ -1,10 +1,19 @@
 ---
 layout: page
 title: Publications
-description: 2009-2018
+description: 2009-2019
 background: '/img/bg-fruits.jpg'
 form: true
 ---
+
+## 2019
+
+- Dai, Z., Liu, G., Chen, H., Chen, C., Wang, J., Ai, S., Wei, D., Li, D., **Ma, B.**, Tang, C., Brookes, P.C., Xu, J., 2019. Long-term nutrient inputs shift soil microbial functional profiles of phosphorus cycling in diverse agroecosystems. The ISME Journal. doi:10.1038/s41396-019-0567-9
+- Deng, Y., Ruan, Y., **Ma, B.**, Timmons, M.B., Lu, H., Xu, X., Zhao, H., Yin, X., 2019. Multi-omics analysis reveals niche and fitness differences in typical denitrification microbial aggregations. Environment International 132, 105085. doi:10.1016/j.envint.2019.105085
+- Feng, J., Xu, Y., **Ma, B.**, Tang, C., Brookes, P.C., He, Y., Xu, J., 2019. Assembly of root-associated microbiomes of typical rice cultivars in response to lindane pollution. Environment International 131, 104975. doi:10.1016/j.envint.2019.104975
+- Lv, X., Zhao, K., Xue, R., Liu, Y., Xu, J., **Ma, B.**, 2019. Strengthening Insights in Microbial Ecological Networks from Theory to Applications. MSystems 4, e00124-19. doi:10.1128/mSystems.00124-19
+
+
 
 ## 2018
 
