@@ -132,8 +132,7 @@ Caiyu Lu comes from Henan Xinyang and has graduated from the Lanzhou University 
 
 **There is no luck, every effort is worth it.**
 
-#### 
-
+#### Yiqun Li
 
 <img src="img/members/yiqun.png"  height="400" width="400">
 
