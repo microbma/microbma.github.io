@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Bin Ma
+title: Lab members
 description: The folks in BMA Lab 
-background: '/img/members/binma.jpg'
+background: '/img/bg-members.jpg'
 form: true
 ---
 
