@@ -44,12 +44,6 @@ Rhizosphere microbiomes are essential for plant grwoth and health, and for ecosy
 
 Ran Xue received his Ph.D in Agriculture from Lanzhou University in 2017 including 2 years’ joint study in the University of Adelaide funded by CSC. During his PhD, Ran studied the interaction between microbial community and plant under water stress. He joined Bin’s lab in Jun, 2018, where he involves in “dark matter” or uncultured microbes in soil to excavate microbial resources for agriculture, manufacture and health care. Ran’s research interests also including bacteria cell size, active microorganism and microbial community assembly.
 
-### Dr. Yuanhui Liu
-![](img/members/liu2.jpg)
-
-(co-superivsed with Prof. Jianming Xu)
-
-Dr. Yuanhui Liu has graduated from the China Agricultural University with a Ph.D. degree in microbiology in June 2018. In my Ph.D. research period, she has studied the mechanism underlying the Non-specific symbiosis between Sophora flavescens and different rhizobia. The research conducted in BMA lab focuses on the mechanism of nitrogen fixation efficiency of rhizobia in regulating the structure and function of soybean root microbiome, in order to understand how rhizobia affect the root microbiome through plant growth and metabolism.
 
 ### Dr. Xiangfeng Tan
 ![](img/members/tan.jpg)
@@ -60,6 +54,9 @@ I received my PhD degree in Forest Biology and Management from the University of
 ![](img/members/erinne.jpg)
 
 Erinne Stirling completed her PhD in 2019 at The University of Adelaide, South Australia with a thesis titled ‘Nutrient cycling between litters and soil after fire in native woodland and Pinus radiata plantations’. During her PhD, Erinne also worked as a freelance researcher on a number of projects including Australia’s Emissions Reduction Scheme, the microbial ecology of Acid Sulfate Soils, and drought effects in permanently and ephemerally saturated inland hydric soils. She was extensively involved in undergraduate teaching and community outreach of soil science. Erinne joined Bin’s laboratory in December, 2019 wherein she aspires to continue working in the soil ecology research and soils education workspace. Erinne is broadly interested in many aspects of soil science, including nutrient cycling, microbial interactions, abiotic chemistry and soil taxonomy.
+
+### Binhao Wang
+
 
 ### Hao Ren
 
@@ -163,6 +160,13 @@ I come from Taizhou and had graduated in land resource management. I feel lucky 
 
 
 ## Lab alumni
+
+### Dr. Yuanhui Liu
+![](img/members/liu2.jpg)
+
+(co-superivsed with Prof. Jianming Xu)
+
+Dr. Yuanhui Liu has graduated from the China Agricultural University with a Ph.D. degree in microbiology in June 2018. In my Ph.D. research period, she has studied the mechanism underlying the Non-specific symbiosis between Sophora flavescens and different rhizobia. The research conducted in BMA lab focuses on the mechanism of nitrogen fixation efficiency of rhizobia in regulating the structure and function of soybean root microbiome, in order to understand how rhizobia affect the root microbiome through plant growth and metabolism.
 
 ### Shudi Ye
 
