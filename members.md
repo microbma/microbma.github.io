@@ -11,42 +11,42 @@ form: true
 - [Dr. Bin Ma](http://microbma.github.io/bma.html)
 
 ## Postdoctoral Fellows
-- Dr. Ran Xue
-- Dr. Erinne Stirling
-- Dr. Xiangfeng Tan
-- Dr. Binhao Wang
-- Dr. Hao Ren
-- Dr. Fan Zhang
+- Dr. Ran Xue (2018)
+- Dr. Erinne Stirling (2019)
+- Dr. Xiangfeng Tan (2019)
+- Dr. Binhao Wang (2020)
+- Dr. Hao Ren (2021)
+- Dr. Fan Zhang (2021)
 
 ## Research Assistant
-- Huiyun Dong
-- Yuanyi Wu
-- Yuyu Shi
+- Huiyun Dong (2021)
+- Yuanyi Wu (2021)
+- Yuyu Shi (2021)
 
 ## Ph.D Students
-- Kankan Zhao
-- Yiling Wang
-- Hengyi Dai
-- Xinwei Song
-- Luyao Zhang
+- Kankan Zhao (2017)
+- Yiling Wang (2019)
+- Hengyi Dai (2020)
+- Xinwei Song (2020)
+- Luyao Zhang (2021)
 
 ## Master Students
-- Haoze Liu
-- Lingya Xu
-- Caiyu Lu
-- Yiqun Li
-- Huan Li
-- Tingfeng Shi
+- Haoze Liu (2019)
+- Lingya Xu (2019)
+- Caiyu Lu (2020)
+- Yiqun Li (2020)
+- Huan Li (2021)
+- Tingfeng Shi (2021)
 
 ## Undergraduate Students
-- Zhengwen Zhang
+- Zhengwen Zhang (2020)
 
 ## Alumni
 ### Postdoc
-- Yuanhui Liu
+- Yuanhui Liu (2017-2020)
 
 ### Master
-- Shudi Ye
-- Shan Liu
+- Shudi Ye (2018-2021)
+- Shan Liu (2018-2021)
 
 
