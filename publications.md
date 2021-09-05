@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-description: 2009-2019
+description: 2009-present
 background: '/img/bg-fruits.jpg'
 form: true
 ---
