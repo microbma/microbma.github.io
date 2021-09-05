@@ -6,6 +6,21 @@ background: '/img/bg-fruits.jpg'
 form: true
 ---
 
+## 2021
+
+- Zhao, K., Ma, B., Xu, Y., Stirling, E. & Xu, J. Light exposure mediates circadian rhythms of rhizosphere microbial communities. ISME J 15, 2655–2664 (2021).
+- Zhang, L. et al. Habitat heterogeneity induced by pyrogenic organic matter in wildfire-perturbed soils mediates bacterial community assembly processes. ISME J 15, 1943–1955 (2021).
+- Xue, R. et al. Deciphering sample size effect on microbial biogeographic patterns and community assembly processes at centimeter scale. Soil Biology and Biochemistry 156, 108218 (2021).
+- Ma, B. et al. Soil Biogeochemical Cycle Couplings Inferred from a Function-Taxon Network. Research 2021, 1–10 (2021).
+5.Liu, H. et al. FACS-iChip: a high-efficiency iChip system for microbial ‘dark matter’ mining. Mar Life Sci Technol 3, 162–168 (2021).
+
+
+## 2020
+
+- Ma, B. et al. Earth microbial co-occurrence network reveals interconnection pattern across microbiomes. Microbiome 8, 82 (2020).
+- Lv, X., Ma, B., Lee, K. & Ulrich, A. Potential syntrophic associations in anaerobic naphthenic acids biodegrading consortia inferred with microbial interactome networks. Journal of Hazardous Materials 397, 122678 (2020).
+- Lv, X., Ma, B., Cologgi, D., Lee, K. & Ulrich, A. Naphthenic acid anaerobic biodegrading consortia enriched from pristine sediments underlying oil sands tailings ponds. Journal of Hazardous Materials 394, 122546 (2020).
+
 ## 2019
 
 - Dai, Z., Liu, G., Chen, H., Chen, C., Wang, J., Ai, S., Wei, D., Li, D., **Ma, B.**, Tang, C., Brookes, P.C., Xu, J., 2019. Long-term nutrient inputs shift soil microbial functional profiles of phosphorus cycling in diverse agroecosystems. The ISME Journal. doi:10.1038/s41396-019-0567-9
