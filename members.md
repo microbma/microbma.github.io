@@ -24,6 +24,9 @@ form: true
 
 ### Research Interests
 
+#### Engineering Soil Microbiome
+Mining and exploiting the microbiomes have crucial application potentials in soil nutrient utilization and plant health promotion. However, there is still a woeful shortage of precise design and validation systems in soil microbial research. The proposed project will design and assemble the functions of rice rhizosphere engineering microbiomes, aiming at sustainable development of agriculture, and will employ microbial complex networks and machine learning algorithms to achieve the directed regulation of rice rhizosphere engineering microbiome functions. Addressing the above scientific questions will provide a new framework for microbiome engineering and support the sustainable development of agriculture.
+
 #### Systems Microbiology
 
 Microbes wired with others through complex interactions. Systems biology provides a novel perspedctive for microbial ecology investigation that interaction networks of genes, proteins, microbes, and other factors in ecosystems play critical roles in regulating ecosystem functions. We are trying to explore the complex interactions in microbial communities by inferring microbial networks for genes, proteins, and microbes.
@@ -58,6 +61,19 @@ I received my PhD degree in Forest Biology and Management from the University of
 
 Erinne Stirling completed her PhD in 2019 at The University of Adelaide, South Australia with a thesis titled ‘Nutrient cycling between litters and soil after fire in native woodland and Pinus radiata plantations’. During her PhD, Erinne also worked as a freelance researcher on a number of projects including Australia’s Emissions Reduction Scheme, the microbial ecology of Acid Sulfate Soils, and drought effects in permanently and ephemerally saturated inland hydric soils. She was extensively involved in undergraduate teaching and community outreach of soil science. Erinne joined Bin’s laboratory in December, 2019 wherein she aspires to continue working in the soil ecology research and soils education workspace. Erinne is broadly interested in many aspects of soil science, including nutrient cycling, microbial interactions, abiotic chemistry and soil taxonomy.
 
+### Hao Ren
+
+### Fan Zhang
+
+## Research Assistant
+
+### Huiyun Dong
+
+### Yuanyi Wu
+
+### Yuyu Shi
+
+
 ## Doctoral students
 
 ### Kankan Zhao
@@ -68,7 +84,6 @@ Erinne Stirling completed her PhD in 2019 at The University of Adelaide, South A
 **We are turning the tide**
 
 Kankan Zhao decided to pursue a Ph.D. in Soil Science after graduating from Zhejiang University with a degree of Bachelor of Agricultural Science in Agricultural Resources and Environment. His primary focus lies in using ecological theories and bioinformatics methods to reveal the interactions between rhizosphere microbial community members. Currently, he is exploring to apply time series analysis to unravel microbial community dynamics. He is also interested in soil viromes. 
-
 
 ### Yiling Wang
 
@@ -91,19 +106,10 @@ Hengyi Dai holds an Agricultural Resources and Environment B.S.A. and has a mino
 
 Xinwei Song graduated from the Nanjing Agricultural University in June 2020. She majored in ecology as an undergraduate and was interested in soil microbes specifically. After she graduated, she was lucky enough to enter BMA lab and became a member of the research group. Her research project is bioremediation of soil composite pollution, and her main research content is the construction of ecological network of rhizosphere cooperative remediation of agricultural soil with combined pollution. Her final goal is to establish the rhizospheric interaction networks of plants-animals-microorganisms to accelerate the synergetic remediation of combined pollutants. Further, to find new methods to regulate the synergistic remediation in rhizosphere on combined pollutants in agricultural soils.
 
+### Luyao Zhang
+
 ## Master students
 
-### Shudi Ye
-
-![](img/members/sudi.jpg)
-
-Shudi Ye holds a landscape architecture B.Eng. from Zhejiang A&F University and has involved in drawing and modeling projects for several years. She joined us on 2018 summer and turned to construct micro-scale structure through her initiation of the design and microbiology from then on. Interested in the interaction between plant roots and microorganisms, Shudi is currently exploring a microfluidics setup to investigate the circadian rhythm of rhizosphere microbes. Additionally, she is also studying other research questions aiming at soil biology based on microfluidics-technologies.
-
-### Shan Liu
-
-![](img/members/liushan.png)
-
-Shan Liu graduated from the Jiangxi Agricultural University with a Bachelor of Agriculture in agricultural resources and environmental in June 2018. After my graduated, she was lucky enough to enter BMA lab and became a member of the research group. My research project is phyllosphere microbiome, and the main research content is its geographical distribution pattern and main driving factors.  Although there are many difficulties in the process of research, there is a way.
 
 ### Haoze Liu
 
@@ -138,4 +144,35 @@ Caiyu Lu comes from Henan Xinyang and has graduated from the Lanzhou University 
 
 I come from Taizhou and had graduated in land resource management. I feel lucky enough to be a member of BMA lab and hope that I can contribute to the cause of soil microorganism. For the reason of interest in the geographical distribution of soil Micro-organism, I decide to make great effort to the exploration of the wider and deeper Soil microecological world. Finally, I firmly believe that the harder you work, the luckier you are.
 
+
+### Huan Li
+
+### Tingfeng Shi
+
+
+## Visiting Scientist
+
+### Wenhao Yang
+
+### Bin Wang
+
+## Undergraduate Students
+
+### Zhiwen Zhang
+
+
+
+## Lab alumni
+
+### Shudi Ye
+
+![](img/members/sudi.jpg)
+
+Shudi Ye holds a landscape architecture B.Eng. from Zhejiang A&F University and has involved in drawing and modeling projects for several years. She joined us on 2018 summer and turned to construct micro-scale structure through her initiation of the design and microbiology from then on. Interested in the interaction between plant roots and microorganisms, Shudi is currently exploring a microfluidics setup to investigate the circadian rhythm of rhizosphere microbes. Additionally, she is also studying other research questions aiming at soil biology based on microfluidics-technologies.
+
+### Shan Liu
+
+![](img/members/liushan.png)
+
+Shan Liu graduated from the Jiangxi Agricultural University with a Bachelor of Agriculture in agricultural resources and environmental in June 2018. After my graduated, she was lucky enough to enter BMA lab and became a member of the research group. My research project is phyllosphere microbiome, and the main research content is its geographical distribution pattern and main driving factors.  Although there are many difficulties in the process of research, there is a way.
 
