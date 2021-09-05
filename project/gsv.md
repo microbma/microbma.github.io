@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "GSV Project"
 subtitle: "Global soil virus project"
 date: 2021-09-05  
