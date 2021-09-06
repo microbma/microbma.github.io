@@ -8,7 +8,7 @@ form: true
 
 ## Dr. Bin Ma
 \center
-!()[/img/members/binma.jpg]
+![](/img/members/binma.jpg)
 
 ### Education
 
