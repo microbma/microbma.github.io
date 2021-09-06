@@ -30,6 +30,9 @@ The candidate is expected to familar with microfuidics design and utilization. E
 
 ## Payments and benefits
   
-This will be a two-year appointment with the possibility to extend, should both parties agree. The annual salary will be ~$65,000 with other benefits, including housing subsidy, free gym, . Interested candidates should email Bin Ma (bma@zju.edu.cn) with a CV, statement of interest and contact information for 3 references. 
+This will be a two-year appointment with the possibility to extend, should both parties agree. The annual salary will be ~$65,000 with other benefits, including housing subsidy, free gym, and other benefits. 
+
+## How to apply
+Interested candidates should email Bin Ma (bma@zju.edu.cn) with a CV, statement of interest and contact information for 3 references. 
 
 
