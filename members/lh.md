@@ -8,8 +8,7 @@ form: true
 
 ## *Huan Li*
 
-\center
-![](img/members/lh.jpg)
+<img src="members/lh.jpg" height="400" width="400" align="center">
 
 **Barren Spring**
 

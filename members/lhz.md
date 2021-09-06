@@ -8,7 +8,6 @@ form: true
 
 ## *Haoze Liu*
 
-\center
-![](img/members/lhz.jpg)
+<img src="members/lhz.jpg" height="400" width="400" align="center">
 
 Haoze Liu graduated in Nanjing Agricultural University and joined Bin’s lab in 2019. Her research mainly includes using FACS-iChip system to mine microorganisms in rice rhizosphere and antibiotic-resistant bacteria in soil.
