@@ -20,3 +20,7 @@ We explore the viromes in soil ecosystems in global scale. We focus on relations
 
 ### [Soil Microbial Ecological Network](/project/network.md)
 <img src="project/network.jpg" height="200" align="middle">
+
+### [Plant Microbiome](/project/plant.md)
+<img src="project/plant.jpg" height="200" align="middle">
+
