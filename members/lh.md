@@ -8,7 +8,7 @@ form: true
 
 ## *Huan Li*
 
-<img src="members/lh.jpg" height="400" width="400" align="center">
+<img src="members/lh.jpg" height="400" align="center">
 
 **Barren Spring**
 

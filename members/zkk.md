@@ -8,7 +8,7 @@ form: true
 
 ## *Kankan Zhao*
 
-<img src="members/zkk.png" height="400" width="400" align="center">
+<img src="members/zkk.png" height="400" align="center">
 
 **We are turning the tide**
 
