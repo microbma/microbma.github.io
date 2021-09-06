@@ -8,10 +8,10 @@ form: true
 
 ## Lab PI
 
-- [Dr. Bin Ma](http://microbma.github.io/bma.html)
+- [Dr. Bin Ma](http://microbma.github.io/members/bma.html)
 
 ## Postdoctoral Fellows
-- Dr. Ran Xue (2018)
+- [Dr. Ran Xue](http://microbma.github.io/members/ran.html) (2018)
 - Dr. Erinne Stirling (2019)
 - Dr. Xiangfeng Tan (2019)
 - Dr. Binhao Wang (2020)
