@@ -7,6 +7,8 @@ form: true
 ---
 
 ## Dr. Bin Ma
+\center
+!()[/img/members/binma.jpg]
 
 ### Education
 
@@ -23,7 +25,7 @@ form: true
 ### Research Interests
 
 #### Engineering Soil Microbiome
-Mining and exploiting the microbiomes have crucial application potentials in soil nutrient utilization and plant health promotion. However, there is still a woeful shortage of precise design and validation systems in soil microbial research. The proposed project will design and assemble the functions of rice rhizosphere engineering microbiomes, aiming at sustainable development of agriculture, and will employ microbial complex networks and machine learning algorithms to achieve the directed regulation of rice rhizosphere engineering microbiome functions. Addressing the above scientific questions will provide a new framework for microbiome engineering and support the sustainable development of agriculture.
+Mining and exploiting soil microbiomes have crucial application potentials in soil nutrient utilization, plant health promotion, and soil contamination remediation. However, there is still a woeful shortage of precise design and validation systems in soil microbial research. We plan to design and assemble the functions of engineering soil microbiomes, aiming at sustainable development of agriculture, and will employ microbial complex networks and machine learning algorithms to achieve the directed regulation of engineering soil microbiome functions.
 
 #### Systems Microbiology
 
