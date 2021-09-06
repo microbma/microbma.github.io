@@ -8,7 +8,7 @@ form: true
 
 ## Dr. Bin Ma
 
-<img src="img/members/binma.jpg" height="400" width="400">
+<img src="img/members/binma.jpg" height="400" width="400" align="center">
 
 ### Education
 
