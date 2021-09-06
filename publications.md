@@ -12,7 +12,7 @@ form: true
 - Zhang, L. et al. Habitat heterogeneity induced by pyrogenic organic matter in wildfire-perturbed soils mediates bacterial community assembly processes. ISME J 15, 1943–1955 (2021).
 - Xue, R. et al. Deciphering sample size effect on microbial biogeographic patterns and community assembly processes at centimeter scale. Soil Biology and Biochemistry 156, 108218 (2021).
 - Ma, B. et al. Soil Biogeochemical Cycle Couplings Inferred from a Function-Taxon Network. Research 2021, 1–10 (2021).
-5.Liu, H. et al. FACS-iChip: a high-efficiency iChip system for microbial ‘dark matter’ mining. Mar Life Sci Technol 3, 162–168 (2021).
+- Liu, H. et al. FACS-iChip: a high-efficiency iChip system for microbial ‘dark matter’ mining. Mar Life Sci Technol 3, 162–168 (2021).
 
 
 ## 2020
