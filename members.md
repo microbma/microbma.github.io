@@ -27,7 +27,7 @@ form: true
 - [Kankan Zhao](/members/zkk.html) (2017)
 - [Yiling Wang](/members/wyl.html) (2019)
 - [Hengyi Dai](/members/dhy.html) (2020)
-- [Xinwei Song](/members/xsw.html) (2020)
+- [Xinwei Song](/members/sxw.html) (2020)
 - [Luyao Zhang](/members/zly.html) (2021)
 
 ## Master Students
