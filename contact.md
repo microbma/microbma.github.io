@@ -6,7 +6,7 @@ background: '/img/bg-contact.jpg'
 form: true
 ---
 
-## Postdoctoral fellow position to study engineering microbiome at Zhejiang University, China
+## Postdoctoral fellow position
 
 We are seeking several postdoctoral fellows to develop innovative technlogyies for enginneering microbiome. This is funded by the Synthetic Biology Platform of the Hangzhou Innovation Centre. The postdoctoral fellow will be based at Zhejiang University and work under the supervision of Dr. Bin Ma, PI in the Hangzhou Innovation Centre, and Dr. Jianming Xu,  Professor of Zhejiang University. The successful candidate will lead the design, conduct, and analysis of engineering microbiome. The candidate will also participate in all aspects of the design and conduct of the development of engineering microbiome technologies.
 
