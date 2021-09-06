@@ -32,7 +32,7 @@ form: true
 
 ## Master Students
 - [Haoze Liu](/members/lhz.html) (2019)
-- [Lingya Xu](/members/xly.html) (2019)
+- [Linya Xu](/members/xly.html) (2019)
 - [Caiyu Lu](/members/lcy.html) (2020)
 - [Yiqun Li](/members/lyq.html) (2020)
 - [Huan Li](/members/lh.html) (2021)
