@@ -20,7 +20,7 @@ Descript coding repository  links
 
 ## Figure Coding
 
-Supporting code for the figures in the manuscript: [https://github.com/YilingWang1997/Global-Soil-Virome](https://github.com/YilingWang1997/Global-Soil-Virome)
+Supporting code for the figures in the manuscript: [https://github.com/microbma/Global-Soil-Virome](https://github.com/microbma/Global-Soil-Virome)
 
 ## Reference 
 
