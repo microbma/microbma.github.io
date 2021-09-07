@@ -18,7 +18,7 @@ Other associated data supporting the findings are available from the correspondi
 
 ## Supporting coding
 
-Related R script can be found in github repository [Global-Soil-Virome](https://github.com/microbma/Global-Soil-Virome).
+Related scripts can be found in github repository [Global-Soil-Virome](https://github.com/microbma/Global-Soil-Virome).
 
 
 
