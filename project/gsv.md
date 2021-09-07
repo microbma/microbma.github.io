@@ -3,7 +3,7 @@ layout: page
 title:  "GSV Project"
 subtitle: "Global soil virus project"
 date: 2021-09-05  
-background: '/img/posts/01.jpg'
+background: 'phages.jpg'
 ---
 
 ## Overview
@@ -20,7 +20,7 @@ Descript coding repository  links
 
 ## Figure Coding
 
-Supporting code for the figures in the manuscript: [gsv](https://github.com/YilingWang1997/Global-Soil-Virome)
+Supporting code for the figures in the manuscript: [https://github.com/YilingWang1997/Global-Soil-Virome](https://github.com/YilingWang1997/Global-Soil-Virome)
 
 ## Reference 
 
