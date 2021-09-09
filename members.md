@@ -40,6 +40,7 @@ form: true
 
 ## Undergraduate Students
 - [Zhengwen Zhang](/members/zzw.html) (2020)
+- [Youjing Jiang](/members/jyj.html) (2020)
 
 ## Alumni
 ### Postdoc
