@@ -6,7 +6,7 @@ background: '/img/bg-members.jpg'
 form: true
 ---
 
-## *Youjing Jiang*
+## *Youjin Jiang*
 
 <img src="members/jyj.jpg" height="400" align="middle">
 
