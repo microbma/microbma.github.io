@@ -39,7 +39,7 @@ form: true
 - [Tingfeng Shi](/members/stf.html) (2021)
 
 ## Undergraduate Students
-- Zhengwen Zhang (2020)
+- [Zhengwen Zhang](/members/zzw.html) (2020)
 
 ## Alumni
 ### Postdoc
