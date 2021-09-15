@@ -17,6 +17,7 @@ form: true
 - [Dr. Binhao Wang](/members/wbh.html) (2020)
 - [Dr. Hao Ren](/members/rh.html) (2021)
 - [Dr. Fan Zhang](/members/zf.html) (2021)
+- [Dr. Jingwen Yu](/members/yjw.html) (2021)
 
 ## Research Assistant
 - [Huiyun Dong](/members/dhy1.html) (2021)
