@@ -12,7 +12,7 @@ form: true
 
 We explore the viromes in soil ecosystems in global scale. We focus on relationships between viruses and their prokaryotic hosts in soil to explore the dynamic variation of viral community structure and ascertain the complex interactions between viruses and prokaryotic hosts.
 
-### [Global soil MAGs](/project/2021-09-05-mag.md)
+### [Global soil MAGs](/project/SMAG.md)
 
 <img src="/img/posts/01smag.jpg" width="300" align="middle"> 
 
