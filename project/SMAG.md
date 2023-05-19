@@ -1,1 +1,48 @@
+---
+layout: page
+title:  "Global Soil MAGs Project"
+subtitle: ""
+date: 2021-09-05  
+background: '/img/posts/01smag.jpg'
+---
+
+## Overview
+
+In Global Soil MAGs(SMAG)Project, we conducted the first large-scale excavation of soil microbial dark matter by reconstructing 40,039 metagenome-assembled genome bins (the SMAG catalog) from 2,990 soil metagenomes. We identified 16,530 of 21,077 species-level genome bins (SGBs) as unknown SGBs (uSGBs), which greatly expand archaeal and bacterial diversity across the tree of life. The uSGBs identified substantially increased the functional landscape and intra-species genome diversity of the soil microbiome, and provided large proportions of the 43,169 biosynthetic gene clusters and 8,544 CRISPR-Cas genes mined from the SMAG catalog.
+
+## Dataset Download
+
+### Web-based user interface
+
+All quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface]()
+
+### Genomes Download
+
+#### Download from Cyverse Datastore
+
+The soil metagenome-assembled genome sequences of SMAG project can be downloaded from Cyverse Datastore in fasta format through [cyverse_40,039 SMAG](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAG.tar.gz);
+
+SMAG MAGs after dereplication (N=21,077) was deposited at [cyverse_21,077_SMAG](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAGdrep.tar.gz);
+
+The virus sequence identified from the SMAG catalog can be downloaded at [cyverse_mag_virus](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/magvirus.fa);
+
+#### Download from Zenodo
+
+The SMAG catalog of the soil metagenomes, SNV catalogs and viruses predicted from SMAG for this publication are available at [Zenodo](https://doi.org/10.5281/zenodo.7941562). To upload the large gz file, we split it into smaller file with the prefix "mag.tar.gz",
+downloaders can use the `cat ./mag.tar.gz* > mag.tar.gz; tar -xjvf <mag.tar.gz>` to process the MAGs.
+
+Other associated data supporting the findings are available from the corresponding author upon reasonable request.
+
+## Data Processing Coding
+
+The workflow used to generate the genomes, taxonomic analysis, and functional annotation, alongside the BGCs prediction, pan-genome, SNV annotations, and virus predictions can be found in github repository [Pipeline](https://github.com/Caiyulu-818/SMAG/tree/main/Pipeline).
+
+## Figure Coding
+
+Scripts used to generate the figures are available at [Figure coding](https://github.com/Caiyulu-818/SMAG/tree/main/scripts).
+
+## Figures and Supplementary Table Files 
+All the main figures and supplementary figures related to paper are avalibale at [figshare](https://figshare.com/articles/figure/Soil_microbial_dark_matter_explored_from_genome-resolved_metagenomics/22126199);
+
+All the supplementary table files related the findings are available at [Zenodo](https://doi.org/10.5281/zenodo.7941562).
 
