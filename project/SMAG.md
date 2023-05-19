@@ -8,13 +8,13 @@ background: '/img/posts/01smag.jpg'
 
 ## Overview
 
-In Global Soil MAGs(SMAG)Project, we conducted the first large-scale excavation of soil microbial dark matter by reconstructing 40,039 metagenome-assembled genome bins (the SMAG catalog) from 2,990 soil metagenomes. We identified 16,530 of 21,077 species-level genome bins (SGBs) as unknown SGBs (uSGBs), which greatly expand archaeal and bacterial diversity across the tree of life. The uSGBs identified substantially increased the functional landscape and intra-species genome diversity of the soil microbiome, and provided large proportions of the 43,169 biosynthetic gene clusters and 8,544 CRISPR-Cas genes mined from the SMAG catalog.
+In Global Soil MAGs (SMAG) Project, we conducted the first large-scale excavation of soil microbial dark matter by reconstructing 40,039 metagenome-assembled genome bins (the SMAG catalog) from 2,990 soil metagenomes. We identified 16,530 of 21,077 species-level genome bins (SGBs) as unknown SGBs (uSGBs), which greatly expand archaeal and bacterial diversity across the tree of life. The uSGBs identified substantially increased the functional landscape and intra-species genome diversity of the soil microbiome, and provided large proportions of the 43,169 biosynthetic gene clusters and 8,544 CRISPR-Cas genes mined from the SMAG catalog.
 
 ## Dataset Download
 
 ### Web-based user interface
 
-All quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface]()
+All the quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface]()
 
 ### Genomes Download
 
