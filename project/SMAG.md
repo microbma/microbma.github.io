@@ -14,7 +14,7 @@ In Global Soil MAGs (SMAG) Project, we conducted the first large-scale excavatio
 
 ### Web-based user interface
 
-All the quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface](http://68.79.26.154:8090/)
+All the quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface](http://68.79.26.154:8090)
 
 ### Genomes Download
 
