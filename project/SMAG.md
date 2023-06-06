@@ -14,7 +14,7 @@ In Global Soil MAGs (SMAG) Project, we conducted the first large-scale excavatio
 
 ### Web-based user interface
 
-All the quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface]()
+All the quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface】(http://68.79.26.154:8090/)
 
 ### Genomes Download
 
@@ -42,7 +42,7 @@ The workflow used to generate the genomes, taxonomic analysis, and functional an
 Scripts used to generate the figures are available at [Figure coding](https://github.com/Caiyulu-818/SMAG/tree/main/scripts).
 
 ## Figures and Supplementary Table Files 
-All the main figures and supplementary figures related to paper are avalibale at [figshare](https://figshare.com/articles/figure/Soil_microbial_dark_matter_explored_from_genome-resolved_metagenomics/22126199);
+All the main figures and supplementary figures related to paper are avalibale at [figshare](https://doi.org/10.6084/m9.figshare.22126199.v2);
 
 All the supplementary table files related the findings are available at [Zenodo](https://doi.org/10.5281/zenodo.7941562).
 
