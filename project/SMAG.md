@@ -31,7 +31,6 @@ The virus sequence identified from the SMAG catalog can be downloaded at [cyvers
 The SMAG catalog of the soil metagenomes, SNV catalogs and viruses predicted from SMAG for this publication are available at [Zenodo](https://doi.org/10.5281/zenodo.7941562). To upload the large gz file, we split it into smaller file with the prefix "mag.tar.gz",
 downloaders can use the `cat ./mag.tar.gz* > mag.tar.gz; tar -xjvf <mag.tar.gz>` to process the MAGs.
 
-Other associated data supporting the findings are available from the corresponding author upon reasonable request.
 
 ## Data Processing Coding
 
@@ -45,4 +44,7 @@ Scripts used to generate the figures are available at [Figure coding](https://gi
 All the main figures and supplementary figures related to paper are avalibale at [figshare](https://doi.org/10.6084/m9.figshare.22126199.v2);
 
 All the supplementary table files related the findings are available at [Zenodo](https://doi.org/10.5281/zenodo.7941562).
+
+Other associated data supporting the findings are available from the corresponding author(bma@zju.edu.cn) upon reasonable request.
+Also you can contact lucy20@zju.edu.cn for details.
 
