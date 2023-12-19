@@ -18,13 +18,11 @@ All the quality and taxonomy information of the genomes in SMAG catalog can be v
 
 ### Genomes Download
 
-#### Download from Cyverse Datastore
-
-The soil metagenome-assembled genome sequences of SMAG project can be downloaded from Cyverse Datastore in fasta format through [cyverse_40,039 SMAG](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAG.tar.gz);
-
-SMAG MAGs after dereplication (N=21,077) was deposited at [cyverse_21,077_SMAG](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAGdrep.tar.gz);
-
-The virus sequence identified from the SMAG catalog can be downloaded at [cyverse_mag_virus](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/magvirus.fa);
+#### Download from SMAG_interface
+The soil metagenome-assembled genome sequences of SMAG project can be downloaded in fasta format through [SMAG_40039](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.tar.gz); [SMAG_40039_MD5](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.md5);
+SMAG MAGs after dereplication (N=21,077) was deposited at [SMAG_drep_21077](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magdrep.tar.gz); [SMAG_drep_21077_md5](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magdrep_21077.md5);
+The uSGBs (N=16.530) can be downloaded at [16,530_uSGBs](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/mag16530.tar.gz); [16530_uSGBs_md5](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/mag16530.md5);
+The virus identified from SMAG can be downloaded from [mag_virus](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magvirus.fa)
 
 #### Download from Zenodo
 
