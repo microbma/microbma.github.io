@@ -8,7 +8,7 @@ background: '/img/posts/01smag.jpg'
 
 ## Overview
 
-In Global Soil MAGs (SMAG) Project, we conducted the first large-scale excavation of soil microbial dark matter by reconstructing 40,039 metagenome-assembled genome bins (the SMAG catalog) from 2,990 soil metagenomes. We identified 16,530 of 21,077 species-level genome bins (SGBs) as unknown SGBs (uSGBs), which greatly expand archaeal and bacterial diversity across the tree of life. The uSGBs identified substantially increased the functional landscape and intra-species genome diversity of the soil microbiome, and provided large proportions of the 43,169 biosynthetic gene clusters and 8,544 CRISPR-Cas genes mined from the SMAG catalog.
+In Global Soil MAGs (SMAG) Project, we conducted the first large-scale excavation of soil microbial dark matter by reconstructing 40,039 metagenome-assembled genome bins (the SMAG catalog) from 3,304 soil metagenomes. We identified 16,530 of 21,077 species-level genome bins (SGBs) as unknown SGBs (uSGBs), which greatly expand archaeal and bacterial diversity across the tree of life. The uSGBs identified substantially increased the functional landscape and intra-species genome diversity of the soil microbiome, and provided large proportions of the 43,169 biosynthetic gene clusters and 8,545 CRISPR-Cas genes mined from the SMAG catalog.
 
 ## Dataset Download
 
@@ -28,7 +28,7 @@ The virus sequence identified from the SMAG catalog can be downloaded at [cyvers
 
 #### Download from Zenodo
 
-The SMAG catalog of the soil metagenomes, SNV catalogs and viruses predicted from SMAG for this publication are available at [Zenodo](https://doi.org/10.5281/zenodo.7941562). To upload the large gz file, we split it into smaller file with the prefix "mag.tar.gz",
+The SMAG catalog of the soil metagenomes, SNV catalogs and viruses predicted from SMAG for this publication are available at [Zenodo](https://zenodo.org/records/8223844). To upload the large gz file, we split it into smaller file with the prefix "mag.tar.gz",
 downloaders can use the `cat ./mag.tar.gz* > mag.tar.gz; tar -xjvf <mag.tar.gz>` to process the MAGs.
 
 
@@ -41,12 +41,12 @@ The workflow used to generate the genomes, taxonomic analysis, and functional an
 Scripts used to generate the figures are available at [Figure coding](https://github.com/Caiyulu-818/SMAG/tree/main/scripts).
 
 ## Figures and Supplementary Table Files 
-All the main figures and supplementary figures related to paper are avalibale at [figshare](https://doi.org/10.6084/m9.figshare.22126199.v2);
-
-All the supplementary table files related the findings are available at [Zenodo](https://doi.org/10.5281/zenodo.7941562).
+The source data underlying Figs. 1–6 and Supplementary Figs. 1-6 are provided as Source Data files
+and have been deposited in the Figshare database[Data files](https://doi.org/10.6084/m9.figshare.23298791).
 
 ## Contacts
-Other associated data supporting the findings are available from the corresponding author(bma@zju.edu.cn) upon reasonable request.
+Other associated data supporting the findings are available from the corresponding author(bma@zju.edu.cn) upon reasonable request. Also you can contact lucy20@zju.edu.cn for details.
 
-Also you can contact lucy20@zju.edu.cn for details.
+## Publications
+Ma, B., Lu, C., Wang, Y. et al. A genomic catalogue of soil microbiomes boosts mining of biodiversity and genetic resources. Nat Commun 14, 7318 (2023).
 
