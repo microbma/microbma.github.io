@@ -41,7 +41,7 @@ Scripts used to generate the figures are available at [Figure coding](https://gi
 
 ## Figures and Supplementary Table Files 
 The source data underlying Figs. 1–6 and Supplementary Figs. 1-6 are provided as Source Data files
-and have been deposited in the Figshare database[Data files](https://doi.org/10.6084/m9.figshare.23298791).
+and have been deposited in the Figshare database [Data files](https://doi.org/10.6084/m9.figshare.23298791).
 
 ## Contacts
 Other associated data supporting the findings are available from the corresponding author(bma@zju.edu.cn) upon reasonable request. Also you can contact lucy20@zju.edu.cn for details.
