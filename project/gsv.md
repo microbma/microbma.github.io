@@ -8,7 +8,7 @@ background: 'phages.jpg'
 
 ## Overview
 
-In Global Soil Virome (GSV) Project, we developed the most comprehensive soil virome compilation to date with 345,607 partial viral genomes from 1,873 deeply sequenced soil metagenomes and analyzed of this dataset revealed distinct environmental impacts and regional variation.
+In Global Soil Virome (GSV) Project, we developed the most comprehensive soil virome compilation to date with 80,750 partial viral genomes from 1,824 deeply sequenced soil metagenomes and analyzed of this dataset revealed distinct environmental impacts and regional variation.
 
 ## Dataset Download
 
