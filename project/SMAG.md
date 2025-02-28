@@ -14,19 +14,19 @@ In Global Soil MAGs (SMAG) Project, we conducted the first large-scale excavatio
 
 ### Web-based user interface
 
-All the quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface](https://smag.microbmalab.cn/)
+All the quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface](https://smag.microbmalab.cn/) (Website maintenance)
 
 ### Genomes Download
 
-#### Download from SMAG_interface
+#### Download from SMAG_interface (Recommended)
 
-The soil metagenome-assembled genome sequences of SMAG project can be downloaded in fasta format through [SMAG_40039](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.tar.gz); [SMAG_40039_MD5](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.md5);
+The soil metagenome-assembled genome sequences of SMAG project can be downloaded in fasta format through [SMAG_40039](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.tar.gz); [SMAG_40039_MD5](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.md5);
 
-SMAG MAGs after dereplication (N=21,077) was deposited at [SMAG_drep_21077](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magdrep.tar.gz); [SMAG_drep_21077_md5](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magdrep_21077.md5);
+SMAG MAGs after dereplication (N=21,077) was deposited at [SMAG_drep_21077](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magdrep.tar.gz); [SMAG_drep_21077_md5](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magdrep_21077.md5);
 
-The uSGBs (N=16,530) can be downloaded at [16,530_uSGBs](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/mag16530.tar.gz); [16530_uSGBs_md5](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/mag16530.md5);
+The uSGBs (N=16,530) can be downloaded at [16,530_uSGBs](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/mag16530.tar.gz); [16530_uSGBs_md5](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/mag16530.md5);
 
-The virus identified from SMAG can be downloaded from [mag_virus](https://bma-public.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magvirus.fa).
+The virus identified from SMAG can be downloaded from [mag_virus](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magvirus.fa).
 
 #### Download from Zenodo
 
