@@ -18,7 +18,11 @@ All the quality and taxonomy information of the genomes in SMAG catalog can be v
 
 ### Genomes Download
 
-#### Download from SMAG_interface (Recommended)
+#### Download from Cyverse
+All the 21,077 MAGs were deposited at [cyverse] (https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAGdrep.tar.gz),
+All the 40,039 MAGs were deposited at [cyverse] (https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAG.tar.gz)
+
+#### Download from SMAG_interface
 
 The soil metagenome-assembled genome sequences of SMAG project can be downloaded in fasta format through [SMAG_40039](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.tar.gz); [SMAG_40039_MD5](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.md5);
 
