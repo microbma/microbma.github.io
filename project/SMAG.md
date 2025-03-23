@@ -19,8 +19,8 @@ All the quality and taxonomy information of the genomes in SMAG catalog can be v
 ### Genomes Download
 
 #### Download from Cyverse
-All the 21,077 MAGs were deposited at [cyverse] (https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAGdrep.tar.gz),
-All the 40,039 MAGs were deposited at [cyverse] (https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAG.tar.gz)
+All the 21,077 MAGs were deposited at [cyverse_21077](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAGdrep.tar.gz);
+All the 40,039 MAGs were deposited at [cyverse_40039](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAG.tar.gz)
 
 #### Download from SMAG_interface
 
