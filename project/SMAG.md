@@ -19,16 +19,15 @@ Due to the high cost of long-term maintenance, we have decided to discontinue th
 
 The SMAG catalog of the soil metagenomes, SNV catalogs and viruses predicted from SMAG for this publication are available at [Zenodo](https://zenodo.org/records/8223844). 
 
-To facilitate systematic discovery and convenient access to high-quality MAG resources, Dr. Rui Li from the Beijing Institute of Genomics has created an open-source index project, [Awesome MAG] (https://github.com/inspirewind/awesome-mag).
+To facilitate systematic discovery and convenient access to high-quality MAG resources, Dr. Rui Li from the Beijing Institute of Genomics has created an open-source index project, [Awesome MAG](https://github.com/inspirewind/awesome-mag).
 
-SMAG has been included in this project, together with a detailed download guide:(https://github.com/inspirewind/awesome-mag/blob/main/sources/smag/download.md).
+SMAG has been included in this project, together with a detailed [Download guide](https://github.com/inspirewind/awesome-mag/blob/main/sources/smag/download.md).
 
 We thank Dr. Rui Li (lirui@big.ac.cn) for organizing and maintaining this helpful community resource.
 
 * All MAGs are estimated to be >= 50% complete and < 10% contaminated
 * The MAGs after dereplication meet or exceed the medium-quality level of the minimum information about a metagenome-assembled genome (MIMAG).
 
-The SMAG catalogue remain openly shared and available to all researchers and practitioners in relevant fields, please contact lucy20@zju.edu.cn for further questions or detailed inquiries.
 
 #### Download from Cyverse
 All the 21,077 MAGs were deposited at [cyverse_21077](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAGdrep.tar.gz);
@@ -47,7 +46,7 @@ The source data underlying Figs. 1–6 and Supplementary Figs. 1-6 are provided 
 and have been deposited in the Figshare database [Data files](https://doi.org/10.6084/m9.figshare.23298791).
 
 ## Contacts
-Other associated data supporting the findings are available from the corresponding author (bma@zju.edu.cn) and also for lucy20@zju.edu.cn for details.
+The SMAG catalogue remain openly shared and available to all researchers and practitioners in relevant fields, please contact lucy20@zju.edu.cn for further questions or detailed inquiries.
 
 ## Publications
 Ma, B., Lu, C., Wang, Y. et al. A genomic catalogue of soil microbiomes boosts mining of biodiversity and genetic resources. Nat Commun 14, 7318 (2023).
