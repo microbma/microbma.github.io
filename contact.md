@@ -10,7 +10,7 @@ form: true
 
 We are seeking several postdoctoral fellows to develop innovative technlogyies for enginneering microbiome. This is funded by the Synthetic Biology Platform of the Hangzhou Innovation Centre. The postdoctoral fellow will be based at Zhejiang University and work under the supervision of Dr. Bin Ma, PI in the Hangzhou Innovation Centre, and Dr. Jianming Xu,  Professor of Zhejiang University. The successful candidate will lead the design, conduct, and analysis of engineering microbiome. The candidate will also participate in all aspects of the design and conduct of the development of engineering microbiome technologies.
 
-### Positoin 1: Bacteria cultivation
+### Position 1: Bacteria cultivation
 The candidate is expected to familar with bacterial isolation and cultivation from soils, bacterial genome analysis, and co-culture experiment. Experience in IChip, flow cytometry, or database building will be preferential. The candidate will in charge wtih bacteral isolation and co-culture experiment with BioFoundry platform and microfuildic tools.   
 
 ### Position 2: Systems microbiology
