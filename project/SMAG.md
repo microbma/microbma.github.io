@@ -12,32 +12,27 @@ In Global Soil MAGs (SMAG) Project, we conducted the first large-scale excavatio
 
 ## Dataset Download
 
-### Web-based user interface
-
-All the quality and taxonomy information of the genomes in SMAG catalog can be viewed at web-based user interface [SMAG_interface](https://smag.microbmalab.cn/) (Website maintenance)
-
 ### Genomes Download
+Due to the high cost of long-term maintenance, we have decided to discontinue the use of https://smag.microbmalab.cn/ for data access and downloads. We strongly recommend using the following download options instead:
+
+#### Download from Zenodo (Highly recommended)
+
+The SMAG catalog of the soil metagenomes, SNV catalogs and viruses predicted from SMAG for this publication are available at [Zenodo](https://zenodo.org/records/8223844). 
+
+To facilitate systematic discovery and convenient access to high-quality MAG resources, Dr. Rui Li from the Beijing Institute of Genomics has created an open-source index project, [Awesome MAG] (https://github.com/inspirewind/awesome-mag).
+
+SMAG has been included in this project, together with a detailed download guide:(https://github.com/inspirewind/awesome-mag/blob/main/sources/smag/download.md).
+
+We thank Dr. Rui Li (lirui@big.ac.cn) for organizing and maintaining this helpful community resource.
+
+* All MAGs are estimated to be >= 50% complete and < 10% contaminated
+* The MAGs after dereplication meet or exceed the medium-quality level of the minimum information about a metagenome-assembled genome (MIMAG).
+
+The SMAG catalogue remain openly shared and available to all researchers and practitioners in relevant fields, please contact lucy20@zju.edu.cn for further questions or detailed inquiries.
 
 #### Download from Cyverse
 All the 21,077 MAGs were deposited at [cyverse_21077](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAGdrep.tar.gz);
 All the 40,039 MAGs were deposited at [cyverse_40039](https://data.cyverse.org/dav-anon/iplant/home/lucyzju/Caiyu_SMAG_catalog_2023/MAG.tar.gz)
-
-#### Download from SMAG_interface
-
-The soil metagenome-assembled genome sequences of SMAG project can be downloaded in fasta format through [SMAG_40039](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.tar.gz); [SMAG_40039_MD5](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/MAG40039.md5);
-
-SMAG MAGs after dereplication (N=21,077) was deposited at [SMAG_drep_21077](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magdrep.tar.gz); [SMAG_drep_21077_md5](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magdrep_21077.md5);
-
-The uSGBs (N=16,530) can be downloaded at [16,530_uSGBs](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/mag16530.tar.gz); [16530_uSGBs_md5](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/mag16530.md5);
-
-The virus identified from SMAG can be downloaded from [mag_virus](https://bma-smag.s3.cn-northwest-1.amazonaws.com.cn/SMAG/magvirus.fa).
-
-#### Download from Zenodo
-
-The SMAG catalog of the soil metagenomes, SNV catalogs and viruses predicted from SMAG for this publication are available at [Zenodo](https://zenodo.org/records/8223844). 
-
-To upload the large gz file, we split it into smaller file with the prefix "mag.tar.gz", downloaders can use the `cat ./mag.tar.gz* > mag.tar.gz; tar -xjvf <mag.tar.gz>` to process the MAGs.
-
 
 ## Data Processing Coding
 
@@ -52,7 +47,7 @@ The source data underlying Figs. 1–6 and Supplementary Figs. 1-6 are provided 
 and have been deposited in the Figshare database [Data files](https://doi.org/10.6084/m9.figshare.23298791).
 
 ## Contacts
-Other associated data supporting the findings are available from the corresponding author(bma@zju.edu.cn) upon reasonable request. Also you can contact lucy20@zju.edu.cn for details.
+Other associated data supporting the findings are available from the corresponding author (bma@zju.edu.cn) and also for lucy20@zju.edu.cn for details.
 
 ## Publications
 Ma, B., Lu, C., Wang, Y. et al. A genomic catalogue of soil microbiomes boosts mining of biodiversity and genetic resources. Nat Commun 14, 7318 (2023).
